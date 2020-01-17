@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/_Scenes/Screens/Start_Screen.unity
+    guid: adc4f84dae5c74b42ac28ef60fd92060
+  - enabled: 1
+    path: Assets/_Scenes/Screens/Credits_Screen.unity
+    guid: 0a2e8144c361b484eb1714f73eecf5a3
+  - enabled: 1
+    path: Assets/_Scenes/Screens/Highscore_Screen.unity
+    guid: e91ccba19c58149058c71b6a93a07fb4
+  - enabled: 1
+    path: Assets/_Scenes/Screens/Settings_Screen.unity
+    guid: 55c880b849abc4105a0872f8f7f7878c
+  - enabled: 1
+    path: Assets/_Scenes/Main_Game.unity
+    guid: 69c9104841ee142db94927c105a9e136
+  - enabled: 1
+    path: Assets/_Scenes/Screens/Buy_Skins.unity
+    guid: 20217ee3126f9874a8217c10ff6a9d16
